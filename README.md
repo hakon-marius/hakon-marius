@@ -1,3 +1,5 @@
+![Banner](https://github.com/hakon-marius/hakon-marius/blob/main/Web%201920%20%E2%80%93%201.jpg)
+
 ### Hi there 👋
 
 My name is Håkon-Marius, and I come from Oslo. Currently, I am a first-year student at Noroff School of Technology and Digital Media, pursuing my studies in Front-end Development. I like the process of creating web pages and enjoy learning new skills..  
