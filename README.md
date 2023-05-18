@@ -1,4 +1,4 @@
-<img src="https://github.com/hakon-marius/hakon-marius/blob/main/Web%201920%20%E2%80%93%201.jpg" alt="Banner" width="800">
+<img src="https://github.com/hakon-marius/hakon-marius/blob/main/Web%201920%20%E2%80%93%201.jpg" alt="Banner" height="200" width="800">
 
 ### Hi there 👋
 
