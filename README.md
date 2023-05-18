@@ -15,7 +15,7 @@ My name is Håkon-Marius, and I come from Oslo. Currently, I am a first-year stu
 
     
     
-    
+    <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hakon-marius&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
