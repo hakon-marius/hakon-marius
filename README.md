@@ -1,6 +1,7 @@
+### Hi there 👋
+
 <img src="https://github.com/hakon-marius/hakon-marius/blob/main/banner_github.png" alt="Banner" height="200" width="800">
 
-### Hi there 👋
 
 My name is Håkon-Marius, and I come from Oslo. Currently, I am a first-year student at Noroff School of Technology and Digital Media, pursuing my studies in Front-end Development. I like the process of creating web pages and enjoy learning new skills..  
 
