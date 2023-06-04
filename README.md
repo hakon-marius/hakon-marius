@@ -7,7 +7,7 @@ My name is Håkon-Marius, and I come from Oslo. Currently, I am a first-year stu
 
 ## Contact med on Social media:
 
-Email adress hakon.marius.solvang@gmail.com or<br/> 
+Email hakon.marius.solvang@gmail.com or<br/> 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Håkon-MariusSolvang-Aug21PT#9038) 
 
 
